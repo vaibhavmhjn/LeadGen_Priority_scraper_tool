@@ -32,4 +32,15 @@ A comprehensive Streamlit app for discovering, enriching, analyzing, and managin
 - Auto-priority conversion and scaling
 - Smart auto-scaling for large datasets
 
+## SAMPLE SCREENSHOTS
+![image](https://github.com/user-attachments/assets/f1e0cad8-94c9-4eab-aa82-ba823a72fa92)
+![image](https://github.com/user-attachments/assets/029bd347-89a6-42ad-b71f-714b223470d8)
+![image](https://github.com/user-attachments/assets/9a863102-db3c-4946-8e87-d29fe4b9ad7d)
+![image](https://github.com/user-attachments/assets/918736d9-3c8b-483d-963e-98081cf8aa6e)
+![image](https://github.com/user-attachments/assets/eee97edf-38b8-4f3a-96b4-2fe65fa895d1)
+![image](https://github.com/user-attachments/assets/c60dbf48-8719-4a28-b00a-b4cbc2b2f677)
+![image](https://github.com/user-attachments/assets/de604aa7-71b8-49ba-8b4b-a9488d3ae73a)
+![image](https://github.com/user-attachments/assets/52f3bf85-7544-4c05-a669-d4f9e13f1809)
+
+
 ---
